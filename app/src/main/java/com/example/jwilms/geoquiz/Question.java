@@ -1,5 +1,5 @@
 package com.example.jwilms.geoquiz;
-//JW
+
 public class Question {
 
     private int mTextResId;
